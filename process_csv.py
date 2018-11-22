@@ -1,7 +1,6 @@
 import csv
 import sys
 import re
-import fileinput
 from datetime import datetime, timedelta
 
 class NormalizeCSV:
