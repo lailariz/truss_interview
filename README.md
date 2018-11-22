@@ -4,7 +4,7 @@ Hi Truss.works! Here you can find my submission for the takehome project.
 ### Run the program
 #### Prerequisites
 Run `python --version` and ensure the output is `Python 3.X.X`. If it is
-not, please install Python 3 or use the python3 command below (if it's
+not, please install Python 3 or use the python3 in the instructions below (if it's
 installed)
 
 #### Tests
